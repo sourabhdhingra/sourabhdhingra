@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sourabhdhingra01@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://github.com/sourabhdhingra/resume/blob/main/doc.pdf)
+- 📄 Know about my experiences in detail! Check out [My resume](https://github.com/sourabhdhingra/resume/blob/main/doc.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

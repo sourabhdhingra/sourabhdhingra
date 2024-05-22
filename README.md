@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sourabh!</h1>
-<h3 align="center">A passionate and seasoned Software Developer in Test.</h3>
+<h3 align="center">A passionate and seasoned Senior Software Developer in Test.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhdhingra&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhdhingra" /> </p>
+
+<p align="left"> I am a polyglot programmer well-versed in developing and designing toolchains, utilities, and test frameworks to address test automation needs and eliminate manual processes. With a strong emphasis on test automation strategy and robust quality assurance practices, I help implement rigorous quality checks before code changes are shipped to production. </p>
+
+<p align="left"> I began my journey as a Software Engineer specializing in Java and, along the way, have continuously acquired knowledge of various technological stacks, programming languages, and software architectures. </p>
+
+<p align="left">I am always learning and striving for both personal and professional growth. My passion for technology drives me to continuously improve my skills and stay updated with the latest industry trends. I enjoy taking on new challenges and finding innovative solutions to complex problems. By embracing a mindset of continuous improvement, I aim to contribute to the success of my team and the projects I work on, ensuring the delivery of high-quality software that meets and exceeds expectations.</p>
 
 - 📫 How to reach me **sourabhdhingra01@gmail.com**
 

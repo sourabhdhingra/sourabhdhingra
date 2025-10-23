@@ -9,7 +9,7 @@
 
 <p align="left">I am always learning and striving for personal and professional growth 📈. My passion for technology drives me to improve my skills and stay updated with industry trends continuously. I enjoy taking on new challenges and finding innovative solutions to complex problems. By embracing a mindset of continuous improvement 🔄, I aim to contribute to the success of my team and the projects I work on, ensuring the delivery of high-quality software that meets and exceeds expectations.</p>
 
-- 📫 How to reach me **sourabhdhingra01@gmail.com**
+- 📫 How to reach me **sourabhdhingra91@gmail.com**
 
 - 📄 Know about my experiences in detail! Check out 👉 [My resume](https://github.com/sourabhdhingra/resume/blob/main/doc.pdf) (Download ⬇️ to interact with links! 😁)
 
